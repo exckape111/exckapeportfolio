@@ -1,0 +1,368 @@
+{
+  "titles": [
+    {
+      "folder": "1",
+      "source": {
+        "video": "1.mov",
+        "still": "ловв",
+        "videoSize": "1280x720"
+      },
+      "video": "/media/titles/1/video.mp4",
+      "poster": "/media/titles/1/poster.webp",
+      "videoWidth": 960,
+      "videoHeight": 540,
+      "duration": 1,
+      "still": "/media/titles/1/still.webp",
+      "stillWidth": 1280,
+      "stillHeight": 960
+    },
+    {
+      "folder": "2",
+      "source": {
+        "video": "-4604028462356694354.mov",
+        "still": "2026-11-09 03.20.13.jpg",
+        "videoSize": "1920x1072"
+      },
+      "video": "/media/titles/2/video.mp4",
+      "poster": "/media/titles/2/poster.webp",
+      "videoWidth": 960,
+      "videoHeight": 536,
+      "duration": 2.16,
+      "still": "/media/titles/2/still.webp",
+      "stillWidth": 1280,
+      "stillHeight": 720
+    },
+    {
+      "folder": "3",
+      "source": {
+        "video": "3356845109959434823.mov",
+        "still": "2026-11-09 03.20.30.jpg",
+        "videoSize": "1280x960"
+      },
+      "video": "/media/titles/3/video.mp4",
+      "poster": "/media/titles/3/poster.webp",
+      "videoWidth": 960,
+      "videoHeight": 720,
+      "duration": 2.93,
+      "still": "/media/titles/3/still.webp",
+      "stillWidth": 1280,
+      "stillHeight": 915
+    },
+    {
+      "folder": "4",
+      "source": {
+        "video": "3147765141018581984.mov",
+        "still": "2026-11-09 03.20.39.jpg",
+        "videoSize": "1280x720"
+      },
+      "video": "/media/titles/4/video.mp4",
+      "poster": "/media/titles/4/poster.webp",
+      "videoWidth": 960,
+      "videoHeight": 540,
+      "duration": 1,
+      "still": "/media/titles/4/still.webp",
+      "stillWidth": 1280,
+      "stillHeight": 720
+    },
+    {
+      "folder": "5",
+      "source": {
+        "video": "-4649459609720154098.mov",
+        "still": "2026-11-09 03.20.54.jpg",
+        "videoSize": "1280x704"
+      },
+      "video": "/media/titles/5/video.mp4",
+      "poster": "/media/titles/5/poster.webp",
+      "videoWidth": 960,
+      "videoHeight": 528,
+      "duration": 2.6,
+      "still": "/media/titles/5/still.webp",
+      "stillWidth": 1280,
+      "stillHeight": 1024
+    },
+    {
+      "folder": "6",
+      "source": {
+        "video": "779206979878551610.mov",
+        "still": "2026-11-09 03.20.46.jpg",
+        "videoSize": "1920x1440"
+      },
+      "video": "/media/titles/6/video.mp4",
+      "poster": "/media/titles/6/poster.webp",
+      "videoWidth": 960,
+      "videoHeight": 720,
+      "duration": 2.96,
+      "still": "/media/titles/6/still.webp",
+      "stillWidth": 1280,
+      "stillHeight": 960
+    },
+    {
+      "folder": "7",
+      "source": {
+        "video": "159064944147421026.mov",
+        "still": "2026-11-09 03.21.04.jpg",
+        "videoSize": "1920x1440"
+      },
+      "video": "/media/titles/7/video.mp4",
+      "poster": "/media/titles/7/poster.webp",
+      "videoWidth": 960,
+      "videoHeight": 720,
+      "duration": 1,
+      "still": "/media/titles/7/still.webp",
+      "stillWidth": 1280,
+      "stillHeight": 720
+    },
+    {
+      "folder": "8",
+      "source": {
+        "video": "-8912672335547354626.mov",
+        "still": "2026-11-09 03.21.10.jpg",
+        "videoSize": "1920x1074"
+      },
+      "video": "/media/titles/8/video.mp4",
+      "poster": "/media/titles/8/poster.webp",
+      "videoWidth": 960,
+      "videoHeight": 538,
+      "duration": 4.04,
+      "still": "/media/titles/8/still.webp",
+      "stillWidth": 1280,
+      "stillHeight": 720
+    },
+    {
+      "folder": "9",
+      "source": {
+        "video": "IMG_7239.MOV",
+        "still": "Untitled-1.jpg",
+        "videoSize": "848x636"
+      },
+      "video": "/media/titles/9/video.mp4",
+      "poster": "/media/titles/9/poster.webp",
+      "videoWidth": 848,
+      "videoHeight": 636,
+      "duration": 1.58,
+      "still": "/media/titles/9/still.webp",
+      "stillWidth": 1280,
+      "stillHeight": 960
+    }
+  ],
+  "covers": [
+    {
+      "source": "IMG_0290.JPG",
+      "src": "/media/covers/thumb/img-0290.webp",
+      "full": "/media/covers/img-0290.webp",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "source": "IMG_0361.JPG",
+      "src": "/media/covers/thumb/img-0361.webp",
+      "full": "/media/covers/img-0361.webp",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "source": "IMG_4128.JPG",
+      "src": "/media/covers/thumb/img-4128.webp",
+      "full": "/media/covers/img-4128.webp",
+      "width": 1280,
+      "height": 1280
+    },
+    {
+      "source": "IMG_7332.JPG",
+      "src": "/media/covers/thumb/img-7332.webp",
+      "full": "/media/covers/img-7332.webp",
+      "width": 1280,
+      "height": 1280
+    },
+    {
+      "source": "IMG_7334.JPG",
+      "src": "/media/covers/thumb/img-7334.webp",
+      "full": "/media/covers/img-7334.webp",
+      "width": 1280,
+      "height": 1280
+    },
+    {
+      "source": "IMG_7335.JPG",
+      "src": "/media/covers/thumb/img-7335.webp",
+      "full": "/media/covers/img-7335.webp",
+      "width": 1280,
+      "height": 1280
+    },
+    {
+      "source": "IMG_7336.JPG",
+      "src": "/media/covers/thumb/img-7336.webp",
+      "full": "/media/covers/img-7336.webp",
+      "width": 1280,
+      "height": 1280
+    },
+    {
+      "source": "IMG_7337.JPG",
+      "src": "/media/covers/thumb/img-7337.webp",
+      "full": "/media/covers/img-7337.webp",
+      "width": 1280,
+      "height": 1280
+    },
+    {
+      "source": "IMG_7338.JPG",
+      "src": "/media/covers/thumb/img-7338.webp",
+      "full": "/media/covers/img-7338.webp",
+      "width": 1280,
+      "height": 1280
+    },
+    {
+      "source": "IMG_7339.JPG",
+      "src": "/media/covers/thumb/img-7339.webp",
+      "full": "/media/covers/img-7339.webp",
+      "width": 1280,
+      "height": 1280
+    },
+    {
+      "source": "IMG_7340.JPG",
+      "src": "/media/covers/thumb/img-7340.webp",
+      "full": "/media/covers/img-7340.webp",
+      "width": 1280,
+      "height": 1280
+    },
+    {
+      "source": "IMG_7341.JPG",
+      "src": "/media/covers/thumb/img-7341.webp",
+      "full": "/media/covers/img-7341.webp",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "source": "IMG_7342.JPG",
+      "src": "/media/covers/thumb/img-7342.webp",
+      "full": "/media/covers/img-7342.webp",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "source": "IMG_7343.JPG",
+      "src": "/media/covers/thumb/img-7343.webp",
+      "full": "/media/covers/img-7343.webp",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "source": "IMG_7344.PNG",
+      "src": "/media/covers/thumb/img-7344.webp",
+      "full": "/media/covers/img-7344.webp",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "source": "IMG_7347.JPG",
+      "src": "/media/covers/thumb/img-7347.webp",
+      "full": "/media/covers/img-7347.webp",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "source": "IMG_7348.JPG",
+      "src": "/media/covers/thumb/img-7348.webp",
+      "full": "/media/covers/img-7348.webp",
+      "width": 1280,
+      "height": 1280
+    },
+    {
+      "source": "IMG_7349.JPG",
+      "src": "/media/covers/thumb/img-7349.webp",
+      "full": "/media/covers/img-7349.webp",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "source": "IMG_7352.JPG",
+      "src": "/media/covers/thumb/img-7352.webp",
+      "full": "/media/covers/img-7352.webp",
+      "width": 1280,
+      "height": 1280
+    },
+    {
+      "source": "IMG_7353.JPG",
+      "src": "/media/covers/thumb/img-7353.webp",
+      "full": "/media/covers/img-7353.webp",
+      "width": 1280,
+      "height": 1280
+    }
+  ],
+  "posters": [
+    {
+      "source": "IMG_2223.JPG",
+      "src": "/media/posters/thumb/img-2223.webp",
+      "full": "/media/posters/img-2223.webp",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "source": "IMG_2224.JPG",
+      "src": "/media/posters/thumb/img-2224.webp",
+      "full": "/media/posters/img-2224.webp",
+      "width": 1280,
+      "height": 1280
+    },
+    {
+      "source": "IMG_7364.JPG",
+      "src": "/media/posters/thumb/img-7364.webp",
+      "full": "/media/posters/img-7364.webp",
+      "width": 1024,
+      "height": 1280
+    }
+  ],
+  "branding": {
+    "visual": [
+      {
+        "source": "IMG_1669.JPG",
+        "src": "/media/branding/visual/thumb/img-1669.webp",
+        "full": "/media/branding/visual/img-1669.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "source": "IMG_1671.JPG",
+        "src": "/media/branding/visual/thumb/img-1671.webp",
+        "full": "/media/branding/visual/img-1671.webp",
+        "width": 1200,
+        "height": 1280
+      },
+      {
+        "source": "IMG_2226.JPG",
+        "src": "/media/branding/visual/thumb/img-2226.webp",
+        "full": "/media/branding/visual/img-2226.webp",
+        "width": 1280,
+        "height": 1130
+      },
+      {
+        "source": "IMG_7370.JPG",
+        "src": "/media/branding/visual/thumb/img-7370.webp",
+        "full": "/media/branding/visual/img-7370.webp",
+        "width": 2200,
+        "height": 1238
+      }
+    ],
+    "sodaluv": [
+      {
+        "source": "гости.JPG",
+        "src": "/media/branding/soda-luv/thumb/gosti.webp",
+        "full": "/media/branding/soda-luv/gosti.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "source": "превью.JPG",
+        "src": "/media/branding/soda-luv/thumb/prevyu.webp",
+        "full": "/media/branding/soda-luv/prevyu.webp",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "source": "х.JPG",
+        "src": "/media/branding/soda-luv/thumb/h.webp",
+        "full": "/media/branding/soda-luv/h.webp",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  }
+}

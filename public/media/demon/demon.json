@@ -1,0 +1,38 @@
+{
+  "width": 1145,
+  "height": 934,
+  "crop": {
+    "x": 9,
+    "y": 82,
+    "width": 1908,
+    "height": 1556
+  },
+  "source": {
+    "width": 1920,
+    "height": 1920
+  },
+  "eyes": {
+    "left": {
+      "anchorX": 0.3563,
+      "anchorY": 0.5105,
+      "blinkShiftY": 9.544,
+      "range": {
+        "minX": -1.85,
+        "maxX": 1.85,
+        "minY": -1.45,
+        "maxY": 1.45
+      }
+    },
+    "right": {
+      "anchorX": 0.5136,
+      "anchorY": 0.5234,
+      "blinkShiftY": 10.732,
+      "range": {
+        "minX": -2.45,
+        "maxX": 2.45,
+        "minY": -1.65,
+        "maxY": 1.65
+      }
+    }
+  }
+}
